@@ -11,6 +11,8 @@
   "dependencies": {
     "@aws-amplify/core": "latest",
     "@aws-amplify/ui-react": "latest",
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
     "aws-amplify": "latest",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
